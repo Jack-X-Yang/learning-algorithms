@@ -12,6 +12,7 @@ learning-algorithms
 - 插入排序
 - 希尔排序
 - 归并排序（自顶向下）
+- 归并排序（自底向上）
 
 # why
 Just for fun.

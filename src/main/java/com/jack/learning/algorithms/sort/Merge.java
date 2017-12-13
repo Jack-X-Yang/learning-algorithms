@@ -5,8 +5,9 @@ public class Merge extends BaseSort {
 	
 	@Override
 	public void sort(Comparable[] a) {
-		aux = new Comparable[a.length];
-		sort(a, 0, a.length - 1);
+		int N = a.length;
+		aux = new Comparable[N];
+		sort(a, 0, N-1);
 	}
 	
 	private static void sort(Comparable[] a, int lo, int hi) {
