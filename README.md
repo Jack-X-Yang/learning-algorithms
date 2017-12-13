@@ -11,6 +11,7 @@ learning-algorithms
 - 选择排序
 - 插入排序
 - 希尔排序
+- 归并排序（自顶向下）
 
 # why
 Just for fun.
