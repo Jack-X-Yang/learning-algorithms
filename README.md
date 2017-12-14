@@ -13,6 +13,7 @@ learning-algorithms
 - 希尔排序
 - 归并排序（自顶向下）
 - 归并排序（自底向上）
+- 快速排序
 
 # why
 Just for fun.
