@@ -15,6 +15,10 @@ learning-algorithms
 - 归并排序（自底向上）
 - 快速排序
 
+# TODO
+- 堆排序
+- 三向快速排序
+
 # why
 Just for fun.
 
