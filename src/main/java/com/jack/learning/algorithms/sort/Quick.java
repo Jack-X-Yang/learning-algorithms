@@ -5,7 +5,6 @@ public class Quick extends BaseSort {
 	@Override
 	public void sort(Comparable[] a) {
 		sort(a, 0, a.length - 1);
-		show(a);
 	}
 
 	private static void sort(Comparable[] a, int lo, int hi) {
