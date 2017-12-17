@@ -18,7 +18,7 @@ public abstract class BaseSortTest {
 
 	@Test
 	public void testSort() {
-		String[] s = {"s", "o", "r", "t", " ", "e", "x", "a", "m", "p", "l", "e"};
+		String[] s = { "s", "o", "r", "t", " ", "e", "x", "a", "m", "p", "l", "e" };
 		sortAlgorithms.sort(s);
 		assertTrue(BaseSort.isSorted(s));
 	};
@@ -43,7 +43,7 @@ public abstract class BaseSortTest {
 	public void testIsSorted() {
 		String[] s1 = { "a", "b", "c" };
 		String[] s2 = { "c", "b", "a" };
-		
+
 		assertTrue(BaseSort.isSorted(s1));
 		assertFalse(BaseSort.isSorted(s2));
 	}

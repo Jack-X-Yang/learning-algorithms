@@ -19,7 +19,7 @@ learning-algorithms
 
 # TODO
 ## 数据结构
-- 堆（二叉堆）
+- 优先队列（最大堆）
 
 ## 算法
 - 堆排序
