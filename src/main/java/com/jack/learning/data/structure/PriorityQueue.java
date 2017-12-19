@@ -1,4 +1,4 @@
-package com.jack.learning.data.structure.priority.queue;
+package com.jack.learning.data.structure;
 
 public abstract class PriorityQueue<Key> {
 	Key[] pq = null;

@@ -1,10 +1,12 @@
-package com.jack.learning.data.structure.priority.queue;
+package com.jack.learning.data.structure;
 
 import static org.junit.Assert.*;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.jack.learning.data.structure.MaxPQ;
 
 public class MaxPqTest extends PriorityQueueTest {
 	MaxPQ pq = null;

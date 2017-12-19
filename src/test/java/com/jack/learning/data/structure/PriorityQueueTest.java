@@ -1,4 +1,4 @@
-package com.jack.learning.data.structure.priority.queue;
+package com.jack.learning.data.structure;
 
 import static org.junit.Assert.*;
 
